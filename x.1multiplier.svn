@@ -1,0 +1,2685 @@
+{
+  "map": "FlatGrass",
+  "props": [
+    {
+      "name": "LogicGate",
+      "uniqueId": 102.267952,
+      "position": {
+        "x": 0.5428399,
+        "y": 0.53,
+        "z": 10.0842638
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "AND"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          364.52536
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 103.981743,
+      "position": {
+        "x": -1.13119662,
+        "y": 0.53,
+        "z": 10.1203375
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "AND"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          178.737778
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 110.761894,
+      "position": {
+        "x": -2.640958,
+        "y": 0.53,
+        "z": 10.1738062
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "AND"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          179.101135
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 124.83506,
+      "position": {
+        "x": -4.425553,
+        "y": 0.53,
+        "z": 10.24542
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "AND"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          183.701691
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 77.65784,
+      "position": {
+        "x": -1.157623,
+        "y": 0.53,
+        "z": 8.719911
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "AND"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          186.750641
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 82.55954,
+      "position": {
+        "x": -2.59172773,
+        "y": 0.53,
+        "z": 8.692616
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "AND"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          187.402252
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 96.90899,
+      "position": {
+        "x": -4.43996763,
+        "y": 0.53,
+        "z": 8.770107
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "AND"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          190.77037
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 118.319351,
+      "position": {
+        "x": -6.425572,
+        "y": 0.53,
+        "z": 8.760735
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "AND"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          193.982452
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 59.6066551,
+      "position": {
+        "x": -2.5600853,
+        "y": 0.53,
+        "z": 7.26441431
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "AND"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          229.3296
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 72.82695,
+      "position": {
+        "x": -4.38886929,
+        "y": 0.53,
+        "z": 7.29958057
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "AND"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          230.284653
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 93.48978,
+      "position": {
+        "x": -6.31476164,
+        "y": 0.53,
+        "z": 7.3029213
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "AND"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          240.530334
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 121.5885,
+      "position": {
+        "x": -8.220065,
+        "y": 0.53,
+        "z": 7.33062935
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "AND"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          255.481476
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 51.65617,
+      "position": {
+        "x": -4.352024,
+        "y": 0.53,
+        "z": 5.695187
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "AND"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          276.488159
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 71.1960754,
+      "position": {
+        "x": -6.273889,
+        "y": 0.53,
+        "z": 5.61724949
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "AND"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          296.0282
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 97.2591553,
+      "position": {
+        "x": -8.112464,
+        "y": 0.53,
+        "z": 5.5826683
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "AND"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          309.482483
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 130.55278,
+      "position": {
+        "x": -9.949429,
+        "y": 0.53,
+        "z": 5.59292
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "AND"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          325.4977
+        ]
+      }
+    },
+    {
+      "name": "Button",
+      "uniqueId": 140.486237,
+      "position": {
+        "x": -4.44592571,
+        "y": 0.53,
+        "z": 10.974474
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Toggle": true
+      },
+      "runtimeData": {
+        "connectedIds": [
+          124.83506,
+          118.319351,
+          121.5885,
+          130.55278,
+          152.975525
+        ],
+        "Signal": false
+      }
+    },
+    {
+      "name": "Button",
+      "uniqueId": 125.795235,
+      "position": {
+        "x": -2.65274143,
+        "y": 0.53,
+        "z": 10.8847275
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Toggle": true
+      },
+      "runtimeData": {
+        "connectedIds": [
+          110.761894,
+          96.90899,
+          93.48978,
+          97.2591553,
+          137.933517
+        ],
+        "Signal": false
+      }
+    },
+    {
+      "name": "Button",
+      "uniqueId": 117.802307,
+      "position": {
+        "x": -1.13320088,
+        "y": 0.53,
+        "z": 10.7813387
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Toggle": true
+      },
+      "runtimeData": {
+        "connectedIds": [
+          103.981743,
+          82.55954,
+          72.82695,
+          71.1960754,
+          130.320755
+        ],
+        "Signal": false
+      }
+    },
+    {
+      "name": "Button",
+      "uniqueId": 116.619949,
+      "position": {
+        "x": 0.5476457,
+        "y": 0.53,
+        "z": 10.7721462
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Toggle": true
+      },
+      "runtimeData": {
+        "connectedIds": [
+          102.267952,
+          77.65784,
+          59.6066551,
+          51.65617,
+          129.019821
+        ],
+        "Signal": false
+      }
+    },
+    {
+      "name": "Button",
+      "uniqueId": 103.422783,
+      "position": {
+        "x": 1.22713292,
+        "y": 0.53,
+        "z": 10.08147
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Toggle": true
+      },
+      "runtimeData": {
+        "connectedIds": [
+          102.267952,
+          103.981743,
+          110.761894,
+          124.83506,
+          105.097847
+        ],
+        "Signal": false
+      }
+    },
+    {
+      "name": "Button",
+      "uniqueId": 76.7547,
+      "position": {
+        "x": -0.464873224,
+        "y": 0.53,
+        "z": 8.732565
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Toggle": true
+      },
+      "runtimeData": {
+        "connectedIds": [
+          77.65784,
+          82.55954,
+          96.90899,
+          118.319351,
+          76.6365662
+        ],
+        "Signal": false
+      }
+    },
+    {
+      "name": "Button",
+      "uniqueId": 57.2547073,
+      "position": {
+        "x": -1.743966,
+        "y": 0.53,
+        "z": 7.3438673
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Toggle": true
+      },
+      "runtimeData": {
+        "connectedIds": [
+          59.6066551,
+          72.82695,
+          93.48978,
+          121.5885,
+          55.7169571
+        ],
+        "Signal": false
+      }
+    },
+    {
+      "name": "Button",
+      "uniqueId": 47.1900558,
+      "position": {
+        "x": -3.7150898,
+        "y": 0.53,
+        "z": 5.753891
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Toggle": true
+      },
+      "runtimeData": {
+        "connectedIds": [
+          51.65617,
+          71.1960754,
+          97.2591553,
+          130.55278,
+          44.3338852
+        ],
+        "Signal": false
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 185.8524,
+      "position": {
+        "x": 0.6063893,
+        "y": 0.53,
+        "z": 13.60896
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "AND"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          181.02536,
+          173.053253
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 181.02536,
+      "position": {
+        "x": -1.26645648,
+        "y": 0.548562,
+        "z": 13.3835917
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -8.153727E-08,
+        "z": 0.0,
+        "w": -1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "AND"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          189.9359
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 178.2665,
+      "position": {
+        "x": 0.6070949,
+        "y": 0.53,
+        "z": 13.3273039
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "XOR"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          364.983154
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 187.677719,
+      "position": {
+        "x": -0.941549361,
+        "y": 0.548562,
+        "z": 13.6561441
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "AND"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          189.9359
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 179.635117,
+      "position": {
+        "x": -0.9406018,
+        "y": 0.548561931,
+        "z": 13.3584976
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "XOR"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          181.02536,
+          173.053253
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 173.053253,
+      "position": {
+        "x": -1.25758779,
+        "y": 0.5586313,
+        "z": 13.0828
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": -8.92486938E-08,
+        "z": 0.0,
+        "w": -1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "XOR"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          219.6078
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 189.9359,
+      "position": {
+        "x": -1.54618192,
+        "y": 0.548562,
+        "z": 13.6837234
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "OR"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          187.311829,
+          179.999344
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 192.678055,
+      "position": {
+        "x": -2.333674,
+        "y": 0.53,
+        "z": 13.673007
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "AND"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          195.659515
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 187.311829,
+      "position": {
+        "x": -2.65947819,
+        "y": 0.53,
+        "z": 13.4148464
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "AND"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          195.659515
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 185.664841,
+      "position": {
+        "x": -2.36232853,
+        "y": 0.53,
+        "z": 13.4090767
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "XOR"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          187.311829,
+          179.999344
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 179.999344,
+      "position": {
+        "x": -2.646332,
+        "y": 0.53,
+        "z": 13.1421223
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "XOR"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          221.634949
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 195.659515,
+      "position": {
+        "x": -2.91713762,
+        "y": 0.53,
+        "z": 13.670001
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "OR"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          206.4611,
+          198.495514
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 206.4611,
+      "position": {
+        "x": -4.444161,
+        "y": 0.53,
+        "z": 13.653924
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "AND"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          247.95636
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 198.495514,
+      "position": {
+        "x": -4.451946,
+        "y": 0.53,
+        "z": 13.356451
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "XOR"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          232.950516
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 220.651917,
+      "position": {
+        "x": -1.29410362,
+        "y": 0.53,
+        "z": 14.7883844
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "XOR"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          362.776581
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 229.07373,
+      "position": {
+        "x": -1.301535,
+        "y": 0.53,
+        "z": 15.0697985
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "AND"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          225.262344,
+          217.573486
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 231.055817,
+      "position": {
+        "x": -2.398655,
+        "y": 0.53,
+        "z": 15.0007124
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "AND"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          233.662567
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 225.262344,
+      "position": {
+        "x": -2.70976019,
+        "y": 0.53,
+        "z": 14.7525806
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "AND"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          233.662567
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 223.220367,
+      "position": {
+        "x": -2.38156939,
+        "y": 0.53,
+        "z": 14.74
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "XOR"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          225.262344,
+          217.573486
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 217.573486,
+      "position": {
+        "x": -2.67882681,
+        "y": 0.53,
+        "z": 14.4953947
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "XOR"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          268.015076
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 233.662567,
+      "position": {
+        "x": -2.94653678,
+        "y": 0.53,
+        "z": 14.9899826
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "OR"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          239.153656,
+          231.53862
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 243.966888,
+      "position": {
+        "x": -4.239463,
+        "y": 0.53,
+        "z": 15.0237455
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "AND"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          247.886948
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 239.153656,
+      "position": {
+        "x": -4.47197533,
+        "y": 0.53,
+        "z": 14.7943974
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "AND"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          247.886948
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 235.792953,
+      "position": {
+        "x": -4.186702,
+        "y": 0.53,
+        "z": 14.764267
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "XOR"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          239.153656,
+          231.53862
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 231.53862,
+      "position": {
+        "x": -4.47706032,
+        "y": 0.53,
+        "z": 14.5331917
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "XOR"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          286.606323
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 247.886948,
+      "position": {
+        "x": -4.69792747,
+        "y": 0.53,
+        "z": 15.01784
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "OR"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          253.936569,
+          246.2403
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 258.034973,
+      "position": {
+        "x": -5.728348,
+        "y": 0.53,
+        "z": 14.998003
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "AND"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          264.8205
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 253.936569,
+      "position": {
+        "x": -6.028952,
+        "y": 0.53,
+        "z": 14.74135
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "AND"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          264.8205
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 250.07373,
+      "position": {
+        "x": -5.704303,
+        "y": 0.53,
+        "z": 14.7395306
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "XOR"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          253.936569,
+          246.2403
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 246.2403,
+      "position": {
+        "x": -6.03904152,
+        "y": 0.53,
+        "z": 14.4737482
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "XOR"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          297.846252
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 264.8205,
+      "position": {
+        "x": -6.26125526,
+        "y": 0.53,
+        "z": 15.0112047
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "OR"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          316.53067
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 268.298,
+      "position": {
+        "x": -2.61489,
+        "y": 0.53,
+        "z": 16.161047
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "XOR"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          376.813263
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 278.3648,
+      "position": {
+        "x": -2.60671234,
+        "y": 0.53,
+        "z": 16.4708519
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "AND"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          292.825867,
+          283.711
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 299.338257,
+      "position": {
+        "x": -4.1948905,
+        "y": 0.53,
+        "z": 16.7767773
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "AND"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          304.1278
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 292.825867,
+      "position": {
+        "x": -4.50290346,
+        "y": 0.53,
+        "z": 16.50057
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "AND"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          304.1278
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 289.750977,
+      "position": {
+        "x": -4.197827,
+        "y": 0.53,
+        "z": 16.4878235
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "XOR"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          292.825867,
+          283.711
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 283.711,
+      "position": {
+        "x": -4.498433,
+        "y": 0.53,
+        "z": 16.22326
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "XOR"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          382.464966
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 304.1278,
+      "position": {
+        "x": -4.72261047,
+        "y": 0.53,
+        "z": 16.7792683
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "OR"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          305.297638,
+          296.2462
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 309.8741,
+      "position": {
+        "x": -5.65676832,
+        "y": 0.53,
+        "z": 16.6611576
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "AND"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          316.421844
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 305.297638,
+      "position": {
+        "x": -5.94560146,
+        "y": 0.53,
+        "z": 16.4215279
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "AND"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          316.421844
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 301.420532,
+      "position": {
+        "x": -5.63604832,
+        "y": 0.53,
+        "z": 16.4126358
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "XOR"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          305.297638,
+          296.2462
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 296.2462,
+      "position": {
+        "x": -5.923653,
+        "y": 0.53,
+        "z": 16.1516438
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "XOR"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          395.23703
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 316.421844,
+      "position": {
+        "x": -6.18349266,
+        "y": 0.53,
+        "z": 16.6704941
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "OR"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          327.171326,
+          318.098236
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 332.6044,
+      "position": {
+        "x": -7.30311537,
+        "y": 0.53,
+        "z": 16.7029343
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "AND"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          337.763275
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 327.171326,
+      "position": {
+        "x": -7.589208,
+        "y": 0.53,
+        "z": 16.41019
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "AND"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          337.763275
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 322.6576,
+      "position": {
+        "x": -7.299614,
+        "y": 0.53,
+        "z": 16.4040337
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "XOR"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          327.171326,
+          318.098236
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 318.098236,
+      "position": {
+        "x": -7.578065,
+        "y": 0.53,
+        "z": 16.1366119
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "XOR"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          422.1387
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 337.763275,
+      "position": {
+        "x": -7.82390976,
+        "y": 0.53,
+        "z": 16.621336
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "OR"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          454.711182
+        ]
+      }
+    },
+    {
+      "name": "Lamp",
+      "uniqueId": 364.52536,
+      "position": {
+        "x": 2.79579234,
+        "y": 0.53,
+        "z": 18.8793011
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": null,
+      "runtimeData": {
+        "connectedIds": []
+      }
+    },
+    {
+      "name": "Lamp",
+      "uniqueId": 362.776581,
+      "position": {
+        "x": -0.7989452,
+        "y": 0.53,
+        "z": 19.0225487
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": null,
+      "runtimeData": {
+        "connectedIds": []
+      }
+    },
+    {
+      "name": "Lamp",
+      "uniqueId": 55.7169571,
+      "position": {
+        "x": -1.26371515,
+        "y": 0.53,
+        "z": 7.337512
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": null,
+      "runtimeData": {
+        "connectedIds": []
+      }
+    },
+    {
+      "name": "Lamp",
+      "uniqueId": 422.1387,
+      "position": {
+        "x": -7.341168,
+        "y": 0.53,
+        "z": 19.182415
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": null,
+      "runtimeData": {
+        "connectedIds": []
+      }
+    },
+    {
+      "name": "Lamp",
+      "uniqueId": 454.711182,
+      "position": {
+        "x": -9.279016,
+        "y": 0.53,
+        "z": 19.1919289
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": null,
+      "runtimeData": {
+        "connectedIds": []
+      }
+    },
+    {
+      "name": "Lamp",
+      "uniqueId": 395.23703,
+      "position": {
+        "x": -5.46048927,
+        "y": 0.53,
+        "z": 19.1086159
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": null,
+      "runtimeData": {
+        "connectedIds": []
+      }
+    },
+    {
+      "name": "Lamp",
+      "uniqueId": 76.6365662,
+      "position": {
+        "x": 0.08928786,
+        "y": 0.53,
+        "z": 8.737717
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": null,
+      "runtimeData": {
+        "connectedIds": []
+      }
+    },
+    {
+      "name": "Lamp",
+      "uniqueId": 137.933517,
+      "position": {
+        "x": -2.66081214,
+        "y": 0.53,
+        "z": 11.4268408
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": null,
+      "runtimeData": {
+        "connectedIds": []
+      }
+    },
+    {
+      "name": "Lamp",
+      "uniqueId": 152.975525,
+      "position": {
+        "x": -4.407944,
+        "y": 0.53,
+        "z": 11.5440311
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": null,
+      "runtimeData": {
+        "connectedIds": []
+      }
+    },
+    {
+      "name": "Lamp",
+      "uniqueId": 130.320755,
+      "position": {
+        "x": -1.112402,
+        "y": 0.53,
+        "z": 11.3491154
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": null,
+      "runtimeData": {
+        "connectedIds": []
+      }
+    },
+    {
+      "name": "Lamp",
+      "uniqueId": 105.097847,
+      "position": {
+        "x": 1.7485007,
+        "y": 0.53,
+        "z": 10.0876007
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": null,
+      "runtimeData": {
+        "connectedIds": []
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 178.737778,
+      "position": {
+        "x": 0.9435861,
+        "y": 0.53,
+        "z": 13.3254089
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "OR"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          178.2665,
+          185.8524
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 186.750641,
+      "position": {
+        "x": 0.9924617,
+        "y": 0.53,
+        "z": 13.6192789
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "OR"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          185.8524,
+          178.2665
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 179.101135,
+      "position": {
+        "x": -0.6123375,
+        "y": 0.53,
+        "z": 13.3583412
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "OR"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          179.635117,
+          187.677719
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 187.402252,
+      "position": {
+        "x": -0.567092,
+        "y": 0.53,
+        "z": 13.6674709
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "OR"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          187.677719,
+          179.635117
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 183.701691,
+      "position": {
+        "x": -2.04623032,
+        "y": 0.53,
+        "z": 13.38782
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "OR"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          185.664841,
+          192.678055
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 190.77037,
+      "position": {
+        "x": -1.98396814,
+        "y": 0.53,
+        "z": 13.658453
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "OR"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          192.678055,
+          185.664841
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 193.982452,
+      "position": {
+        "x": -4.07888,
+        "y": 0.53,
+        "z": 13.306551
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "OR"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          198.495514,
+          206.4611
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 219.6078,
+      "position": {
+        "x": -0.917650163,
+        "y": 0.53,
+        "z": 14.7812319
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "OR"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          220.651917,
+          229.07373
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 229.3296,
+      "position": {
+        "x": -0.962933064,
+        "y": 0.53,
+        "z": 15.10369
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "OR"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          229.07373,
+          220.651917
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 230.284653,
+      "position": {
+        "x": -2.05534887,
+        "y": 0.53,
+        "z": 15.0259542
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "OR"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          231.055817,
+          223.220367
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 221.634949,
+      "position": {
+        "x": -2.01942372,
+        "y": 0.53,
+        "z": 14.740284
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "OR"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          223.220367,
+          231.055817
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 232.950516,
+      "position": {
+        "x": -3.83310485,
+        "y": 0.53,
+        "z": 14.7640419
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "OR"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          235.792953,
+          243.966888
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 240.530334,
+      "position": {
+        "x": -3.8067522,
+        "y": 0.53,
+        "z": 15.0252476
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "OR"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          243.966888,
+          235.792953
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 255.481476,
+      "position": {
+        "x": -5.366729,
+        "y": 0.53,
+        "z": 15.0465546
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "OR"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          258.034973,
+          250.07373
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 247.95636,
+      "position": {
+        "x": -5.38910961,
+        "y": 0.53,
+        "z": 14.7862425
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "OR"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          250.07373,
+          258.034973
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 316.53067,
+      "position": {
+        "x": -6.898872,
+        "y": 0.53,
+        "z": 16.3907089
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "OR"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          322.6576,
+          332.6044
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 325.4977,
+      "position": {
+        "x": -6.863321,
+        "y": 0.53,
+        "z": 16.67668
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "OR"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          332.6044,
+          322.6576
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 309.482483,
+      "position": {
+        "x": -5.29960346,
+        "y": 0.53,
+        "z": 16.7665081
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "OR"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          309.8741,
+          301.420532
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 297.846252,
+      "position": {
+        "x": -5.27734327,
+        "y": 0.53,
+        "z": 16.4230022
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "OR"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          301.420532,
+          309.8741
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 286.606323,
+      "position": {
+        "x": -3.78127027,
+        "y": 0.53,
+        "z": 16.4932537
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "OR"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          289.750977,
+          299.338257
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 296.0282,
+      "position": {
+        "x": -3.72724533,
+        "y": 0.53,
+        "z": 16.7885361
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "OR"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          299.338257,
+          289.750977
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 276.488159,
+      "position": {
+        "x": -2.33368254,
+        "y": 0.53,
+        "z": 16.4548225
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "OR"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          278.3648,
+          268.298
+        ]
+      }
+    },
+    {
+      "name": "LogicGate",
+      "uniqueId": 268.015076,
+      "position": {
+        "x": -2.32997847,
+        "y": 0.53,
+        "z": 16.1958447
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": {
+        "Mode": "OR"
+      },
+      "runtimeData": {
+        "connectedIds": [
+          268.298,
+          278.3648
+        ]
+      }
+    },
+    {
+      "name": "Lamp",
+      "uniqueId": 364.983154,
+      "position": {
+        "x": 1.2189579,
+        "y": 0.53,
+        "z": 19.0582371
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": null,
+      "runtimeData": {
+        "connectedIds": []
+      }
+    },
+    {
+      "name": "Lamp",
+      "uniqueId": 376.813263,
+      "position": {
+        "x": -2.599978,
+        "y": 0.53,
+        "z": 19.22947
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": null,
+      "runtimeData": {
+        "connectedIds": []
+      }
+    },
+    {
+      "name": "Lamp",
+      "uniqueId": 382.464966,
+      "position": {
+        "x": -3.90373039,
+        "y": 0.53,
+        "z": 19.1558075
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": null,
+      "runtimeData": {
+        "connectedIds": []
+      }
+    },
+    {
+      "name": "Lamp",
+      "uniqueId": 44.3338852,
+      "position": {
+        "x": -3.26699018,
+        "y": 0.53,
+        "z": 5.777522
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": null,
+      "runtimeData": {
+        "connectedIds": []
+      }
+    },
+    {
+      "name": "Lamp",
+      "uniqueId": 129.019821,
+      "position": {
+        "x": 0.529744864,
+        "y": 0.53,
+        "z": 11.3339443
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "isKinematic": true,
+      "instantiationData": null,
+      "runtimeData": {
+        "connectedIds": []
+      }
+    }
+  ]
+}
